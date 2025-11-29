@@ -10,7 +10,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Enhance your workplace culture with our comprehensive Employee Wellbeing Presentation. This ready-to-use presentation covers essential topics like workplace wellness strategy, mental health support, stress management techniques, self-care planning, and mindfulness exercises. Perfect for HR professionals, managers, and team leaders, this resource is designed to promote a healthy, productive, and resilient workforce.",
     price: 4.49,
     category: 'guides',
-    image: "https://images.unsplash.com/photo-1544367563-12123d8965cd?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/d61a68/6248772347/il_fullxfull.6248772347_sqpd.jpg",
     features: ["10 Slides", "Ready to use", "Fully Customizable", "Powerpoint & Keynote", "Google Slides Compatible"]
   },
   {
@@ -20,7 +20,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Introducing our Employee Handbook Template - the perfect solution for creating a comprehensive, professional, and easily accessible employee handbook. This template is designed to help businesses of all sizes to create a clear and effective guide for their employees, covering all the key policies and procedures in a professional and user-friendly format.",
     price: 4.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/35b279/4953422743/il_fullxfull.4953422743_24jp.jpg",
     features: ["10 Pages", "Word & PDF Format", "Welcome Letter Included", "Customizable Policies", "Company Overview Section"]
   },
   {
@@ -30,7 +30,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Streamline your recruitment process and ensure consistent, effective interviews with our comprehensive Employee Interview Guide and Template. This easy-to-use resource includes a customizable interview guide and questionnaire, designed to gather valuable information about job candidates.",
     price: 4.49,
     category: 'kits',
-    image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/95ebd8/4250262356/il_fullxfull.4250262356_c6zg.jpg",
     features: ["6 Pages", "Questions & Scoring Guide", "Word & PDF Format", "Simple Clean Design", "Fully Editable"]
   },
   {
@@ -40,7 +40,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Looking for fun work party games to energize your team and break the ice? Our printable games bundle offers a variety of engaging activities perfect for staff parties, happy hours, or team meetings. Includes games like Who Knows the Boss Best, Coworker Bingo, and more.",
     price: 5.49,
     category: 'kits',
-    image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/c6fb91/6295676939/il_fullxfull.6295676939_rok1.jpg",
     features: ["8 Game Bundle Pack", "2 Answer Keys", "PDF Format", "Team Building Activities", "Instant Download"]
   },
   {
@@ -50,7 +50,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Unleash the full potential of your HR department with The HR Handbook: Topics for Success. This comprehensive guide covers a wide range of HR topics, including recruitment and selection, employee relations, and training and development. With practical advice and real-world examples, this handbook is an essential resource.",
     price: 5.49,
     category: 'guides',
-    image: "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/48b28a/4953455281/il_fullxfull.4953455281_4wng.jpg",
     features: ["27 Pages", "PDF & KPF Formats", "12 Comprehensive Chapters", "Recruitment to Offboarding", "Best Practice Guide"]
   },
   {
@@ -60,7 +60,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Resolve Workplace Conflicts with Confidence and Ease. Are you a line manager or HR professional seeking effective ways to address workplace disputes? The Employee Mediation Toolkit is your go-to resource for managing and resolving employee conflicts. Designed to empower managers at all levels.",
     price: 4.49,
     category: 'kits',
-    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/8e3be2/6641458249/il_fullxfull.6641458249_5lo9.jpg",
     features: ["15 Pages Total", "Mediation Scripts", "Action Plan Templates", "Step-by-Step Guide", "Visual Aids"]
   },
   {
@@ -70,7 +70,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Craft a winning HR strategy presentation with ease – all the content, visuals, and flexibility you need in one downloadable package! Stop wasting time building your HR strategy presentation from scratch. This comprehensive toolkit provides you with 50 customizable slides, packed with essential content.",
     price: 5.49,
     category: 'guides',
-    image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/de24ba/5968624230/il_fullxfull.5968624230_4ofq.jpg",
     features: ["50 Slides", "100+ Icons & Graphics", "PowerPoint & Google Slides", "Pre-Built Content", "Fully Editable"]
   },
   {
@@ -80,7 +80,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Struggling to conduct impactful 1:1 meetings with your team? Wish you could foster stronger relationships, boost employee engagement, and unlock their full potential? This comprehensive guide is your key to unlocking the power of effective 1:1 meetings. Packed with practical tips and actionable strategies.",
     price: 5.49,
     category: 'kits',
-    image: "https://images.unsplash.com/photo-1517048676732-d65bc937f11d?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/9843d0/6039310030/il_fullxfull.6039310030_csi5.jpg",
     features: ["20 Pages Total", "1:1 Meeting Guides", "SMART Goals Template", "Feedback Strategies", "Development Plan Template"]
   },
   {
@@ -90,7 +90,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Transform your workplace with our beautifully designed employee engagement and appreciation calendar. This unique calendar is tailored to help HR teams plan and execute a year full of employee appreciation and engagement activities. Each month highlights different employee engagement initiatives from around the world.",
     price: 6.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/94e7a7/6054957170/il_fullxfull.6054957170_bov4.jpg",
     features: ["2025 Monthly Calendar", "Monthly Engagement Initiatives", "High Quality Photos", "PDF Printable", "A4 & US Letter"]
   },
   {
@@ -100,7 +100,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Educate and inform your colleagues and visitors with our fun 'Functions of HR' Wall Print. This eye-catching piece features an illustration of the key functions of Human Resources and an attractive way to showcase the important role of HR in any organization.",
     price: 4.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/2ec0c8/4288291273/il_fullxfull.4288291273_3lym.jpg",
     features: ["High Res JPG", "SVG File Included", "Print-Ready PDF", "3175 x 4490 px", "Instant Download"]
   },
   {
@@ -110,7 +110,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Add some humor to your HR department with our HR Definition Wall Print. This lighthearted design features a humorous take on the definition of Human Resources, guaranteed to bring a smile to your coworkers' faces. Perfect for any office or break room.",
     price: 3.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/237732/4249879960/il_fullxfull.4249879960_4972.jpg",
     features: ["High Res JPG", "SVG File", "Print-Ready PDF", "Square Format Available", "Funny Office Decor"]
   },
   {
@@ -120,7 +120,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Looking for a comprehensive and professional template to conduct thorough employee relations investigations? Our Employee Relations Investigation Report Template provides a complete solution for investigating workplace incidents and resolving employee conflicts. Designed for HR professionals and internal investigators.",
     price: 4.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/c4daf7/4606790332/il_fullxfull.4606790332_mseb.jpg",
     features: ["7 Pages", "Word & PDF Format", "Investigation Methodology", "Findings & Recommendations", "Legal Considerations Section"]
   },
   {
@@ -130,7 +130,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Enhance employee engagement and productivity with Simple HR's Employee SMART Goals Development Plan. Our comprehensive and customizable template is designed to help businesses of all sizes establish a clear and effective goal-setting process. Designed using the widely recognized SMART framework.",
     price: 5.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/b479db/4907654848/il_fullxfull.4907654848_g0rx.jpg",
     features: ["8 Pages", "Goal Setting Guide", "Printable Forms", "Word & PDF Format", "Performance Management Tool"]
   },
   {
@@ -140,7 +140,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Stop struggling with nerves or generic advice — this comprehensive, step-by-step public speaking manual gives you everything you need to speak with confidence, clarity, and impact. Perfect for professionals, leaders, and anyone who wants to communicate like a pro.",
     price: 5.49,
     category: 'guides',
-    image: "https://images.unsplash.com/photo-1475721027760-4416318349b4?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/8267bb/7336845318/il_fullxfull.7336845318_h442.jpg",
     features: ["30 Pages", "7 Comprehensive Modules", "Practical Exercises", "Communication Frameworks", "PDF Format"]
   },
   {
@@ -150,7 +150,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Add some inspiration to your office with our HR Manager Printable Wall Art. This beautifully designed print features a funny quote, specifically chosen for HR professionals. The high-resolution print is easy to download and print, making it a convenient way to decorate your workspace.",
     price: 3.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/2fa1f0/4243820356/il_fullxfull.4243820356_kulf.jpg",
     features: ["High Res JPG", "SVG File", "Print-Ready PDF", "Instant Download", "Office Decor"]
   },
   {
@@ -160,7 +160,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Streamline your negotiations and simplify the collective bargaining process with our comprehensive Collective Bargaining Agreement Template. Designed by experienced labor relations professionals, this template covers all the essential elements including wages, benefits, working conditions, and grievance procedures.",
     price: 4.49,
     category: 'policies',
-    image: "https://images.unsplash.com/photo-1554224155-9ffd4cb55560?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/24a85e/4654933487/il_fullxfull.4654933487_4gza.jpg",
     features: ["7 Pages", "Word & PDF Format", "NLRA & FLSA Compliant", "Customizable Clauses", "Signature Sections"]
   },
   {
@@ -170,7 +170,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Introducing the ultimate project management planner! This digital planner is designed to help you stay on top of your projects, keep track of your resources, and monitor your progress. Features an action plan section, resource status tracker, and project summary dashboards.",
     price: 4.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/cf2e73/4764064933/il_fullxfull.4764064933_q060.jpg",
     features: ["4 Pages", "Action Plan Section", "Resource Tracker", "Project Summary", "PDF & Word Format"]
   },
   {
@@ -180,7 +180,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Make managing employee absences simple and compliant with this editable Word-based HR Absence Management Toolkit. Whether you're in the US, UK, or Canada, this pack gives you everything you need to handle absences professionally. Includes guides, letter templates, and trigger thresholds.",
     price: 5.49,
     category: 'kits',
-    image: "https://images.unsplash.com/photo-1504384308090-c54be3855833?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/6c003d/6925960508/il_fullxfull.6925960508_c6eu.jpg",
     features: ["16 Pages", "Manager Cheat Sheets (US/UK/CAN)", "Return to Work Forms", "Trigger Thresholds", "Step-by-Step Guide"]
   },
   {
@@ -190,7 +190,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Transform workplace conflict into collaboration with this all-in-one Conflict Resolution and Mediation Toolkit. Includes essential templates, step-by-step guides, and a professionally designed Manager Training Presentation on Conflict Resolution to equip leaders with the skills they need.",
     price: 5.49,
     category: 'kits',
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/8c36a0/6487925923/il_fullxfull.6487925923_q3o4.jpg",
     features: ["13 Page Guide & Forms", "12 Page Training Presentation", "Mediation Templates", "Conflict Assessment Form", "Word & PPT Format"]
   },
   {
@@ -200,7 +200,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Add a touch of style to your work space or interview room with our unique Recruitment Wall Art. This eye-catching piece features a vibrant and inspiring design, perfect for any HR office or waiting area. Show that your company values creativity in the recruitment process.",
     price: 4.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/c0dea0/4258798658/il_fullxfull.4258798658_31k6.jpg",
     features: ["High Res JPG", "SVG File", "Print-Ready PDF", "Instant Download", "Interview Room Decor"]
   },
   {
@@ -210,7 +210,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Make a statement and show your unique approach to HR with our 'I'm not regular HR, I'm cool HR' quote wall print. The high-quality digital print can be easily downloaded and displayed. Perfect for the modern HR workspace.",
     price: 4.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/0be8bf/4294239915/il_fullxfull.4294239915_9din.jpg",
     features: ["High Res JPG", "SVG File", "Print-Ready PDF", "Instant Download", "Office Decor"]
   },
   {
@@ -220,7 +220,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Unlock the Power of AI in HR! Are you an HR professional looking to stay ahead in the evolving world of HR tech? The AI in HR Playbook is your go-to guide for integrating AI into your HR processes with confidence. Covers automation, decision making, and employee experience.",
     price: 4.49,
     category: 'guides',
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/19577f/6646875904/il_fullxfull.6646875904_flxl.jpg",
     features: ["14 Page Playbook", "Actionable AI Strategies", "User-Friendly Guide", "PDF Format", "Future of Work"]
   },
   {
@@ -230,7 +230,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Introducing the ultimate tool for organizing your professional life - the Professional Planner. Designed with busy professionals in mind, providing structure and flexibility. Includes monthly calendar views, weekly/daily views, goal setting, and project planning sections.",
     price: 4.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1506784926709-22f1ec754fcf?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/d1380f/4953375557/il_fullxfull.4953375557_7g15.jpg",
     features: ["8 Pages", "Monthly & Weekly Views", "Goal Setting Section", "PDF Format", "Simple Clean Design"]
   },
   {
@@ -240,7 +240,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Ensure consistent and professional communication with employees during disciplinary action with our Employee Warning Letter Template. This easy-to-use template includes a customizable letter format for addressing various types of performance or behavior issues.",
     price: 3.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1554224154-260327c00c19?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/002e08/4570842886/il_fullxfull.4570842886_jkp1.jpg",
     features: ["2 Pages", "Word & PDF Format", "Performance & Behavior", "Clear Instructions", "Fully Customizable"]
   },
   {
@@ -250,7 +250,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Introducing our Respectful Workplace Policy template - the perfect solution for creating a comprehensive and inclusive workplace. Covers key elements of diversity and inclusion, non-discrimination policies, and equal opportunities. Written in clear, concise language.",
     price: 4.49,
     category: 'policies',
-    image: "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/aaaded/6018641385/il_fullxfull.6018641385_lyp7.jpg",
     features: ["5 Pages", "Diversity & Inclusion", "Word & PDF Format", "Customizable", "Clear Language"]
   },
   {
@@ -260,7 +260,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Streamline your employee exit interview process with our comprehensive Employee Exit Interview Template. Includes a customizable questionnaire designed to gather valuable feedback from departing employees on job satisfaction, reasons for leaving, and suggestions.",
     price: 4.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/1b0e17/4294679775/il_fullxfull.4294679775_pcae.jpg",
     features: ["3 Pages", "Comprehensive Questionnaire", "Word & PDF Format", "Simple Design", "Actionable Insights"]
   },
   {
@@ -270,7 +270,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "The comprehensive and user-friendly onboarding plan is designed to ensure that every new hire has a smooth and efficient transition. With a customizable calendar, milestones, and a step-by-step guide, our onboarding template provides a structured approach.",
     price: 4.49,
     category: 'kits',
-    image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/2128b4/4716765610/il_fullxfull.4716765610_6xh0.jpg",
     features: ["5 Pages", "Customizable Calendar", "Goal Tracker", "Word & PDF Format", "Step-by-Step Guide"]
   },
   {
@@ -280,7 +280,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Streamline your employee exit process with our efficient Employee Exit Questionnaire Template. This easy-to-use template is designed to increase completion rates with its simple design and multiple choice questions. Covers job satisfaction and reasons for leaving.",
     price: 2.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/55c002/4939576256/il_fullxfull.4939576256_mn50.jpg",
     features: ["2 Pages", "Multiple Choice Format", "High Completion Rate Design", "PDF Printable", "Simple Layout"]
   },
   {
@@ -290,7 +290,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Protect sensitive information and ensure compliance with privacy regulations with our comprehensive Electronic Communication Confidentiality Policy. Includes guidelines for the appropriate use of email, instant messaging, and other digital tools.",
     price: 4.49,
     category: 'policies',
-    image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/1e7ee5/4229090054/il_fullxfull.4229090054_oklq.jpg",
     features: ["2 Pages", "Data Protection", "Usage Guidelines", "Word & PDF Format", "Fully Editable"]
   },
   {
@@ -300,7 +300,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Transform Your Workplace with Our Employee Engagement Survey Template and HR Action Plan Guide. Boost employee satisfaction, productivity, and retention. Includes a pre-designed survey covering leadership, culture, and growth, plus an HR guide on analyzing results.",
     price: 5.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/9523aa/6493253943/il_fullxfull.6493253943_jj2s.jpg",
     features: ["10 Pages", "Survey & Action Plan", "Analysis Guide", "PDF Printable", "SMART Goals Framework"]
   },
   {
@@ -310,7 +310,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Improve communication, collaboration, and problem solving with this comprehensive Team Building manual and guide. Covers conflict resolution, teamwork strategies, and includes case studies and self-reflection sections.",
     price: 4.49,
     category: 'guides',
-    image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/4d7718/4963072809/il_fullxfull.4963072809_6h3f.jpg",
     features: ["13 Pages", "Case Studies Included", "Self-Reflection Tools", "PDF Format", "Comprehensive Guide"]
   },
   {
@@ -320,7 +320,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Protect your employees and ensure compliance with health and safety regulations with our comprehensive Health and Safety Policy Template. Covers workplace hazards, emergency procedures, and employee responsibilities.",
     price: 4.49,
     category: 'policies',
-    image: "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/884a34/4229020340/il_fullxfull.4229020340_iywf.jpg",
     features: ["1 Page Essential Policy", "Hazard Coverage", "Emergency Procedures", "Word & PDF Format", "Easy to Edit"]
   },
   {
@@ -330,7 +330,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Elevate your employee training program with our comprehensive Employee Training Template and Skills Matrix. Includes a customizable training template for organizing sessions and a skills matrix for tracking employee competencies and progress.",
     price: 5.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/f0f656/4907738530/il_fullxfull.4907738530_p5qp.jpg",
     features: ["5 Pages", "Skills Matrix", "Training Tracker", "Word & PDF Format", "Performance Tool"]
   },
   {
@@ -340,7 +340,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Ready to honor your team with a twist of humor? Introducing our collection of funny employee appreciation awards! Say goodbye to generic recognition. From 'Coffee Connoisseur' to 'Office DJ', our awards add a playful touch to any appreciation event.",
     price: 6.49,
     category: 'kits',
-    image: "https://images.unsplash.com/photo-1565514020176-db9377484d85?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/773426/5799623801/il_fullxfull.5799623801_tris.jpg",
     features: ["30 Unique Certificates", "Editable PDF", "Funny Categories", "Instant Download", "Morale Booster"]
   },
   {
@@ -350,7 +350,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Impress your new hires and streamline the onboarding process with this all-in-one presentation! Designed for efficiency, this editable PowerPoint presentation features captivating graphics and a structured flow covering company culture, values, team structure, and benefits.",
     price: 4.49,
     category: 'guides',
-    image: "https://images.unsplash.com/photo-1544531586-fde5298cdd40?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/a1aad1/6052179600/il_fullxfull.6052179600_n254.jpg",
     features: ["21 Slides", "PowerPoint Format", "Org Chart Template", "Culture & Values Section", "Fully Editable"]
   },
   {
@@ -360,7 +360,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Streamline your employee probation review process with our comprehensive Employee Probation Review Guide and Template. Includes best practices for conducting fair evaluations and a customizable template for documenting progress.",
     price: 4.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1551836022-4c4c79ecde51?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/c2392d/4284646981/il_fullxfull.4284646981_7mrg.jpg",
     features: ["4 Pages", "Review Guide", "Assessment Template", "Word & PDF Format", "Progress Tracking"]
   },
   {
@@ -370,7 +370,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "Elevate your well-being with our Employee Self-Care Plan Template. A comprehensive, printable toolkit designed to help you manage stress, maintain mental health, and achieve work-life balance. Includes SMART goal settings and mindfulness tools.",
     price: 5.49,
     category: 'templates',
-    image: "https://images.unsplash.com/photo-1545205597-3d9d02c29597?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/8a0023/6249344423/il_fullxfull.6249344423_aufa.jpg",
     features: ["30 Pages", "Wellness Journal", "Stress Management Tools", "PDF Printable", "Goal Setting"]
   },
   {
@@ -380,7 +380,7 @@ export const PRODUCTS: Product[] = [
     fullDescription: "The Recruitment Mega Bundle is the ultimate resource for HR professionals. Includes 5 high-quality templates: Interview Questions, Employee Handbook, New Hire Onboarding Plan, Digital Planner, and Team Building Guide.",
     price: 6.49,
     category: 'kits',
-    image: "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?auto=format&fit=crop&q=80&w=800",
+    image: "https://i.etsystatic.com/38005424/r/il/c3af22/5013924446/il_fullxfull.5013924446_kind.jpg",
     features: ["5 Full Templates", "Interview Guide", "Handbook", "Onboarding Plan", "Best Value Bundle"]
   }
 ];

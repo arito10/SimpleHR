@@ -1,11 +1,10 @@
-
 import React, { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { PRODUCTS, FAQS } from '../constants';
+import { PRODUCTS } from '../constants';
 import Button from '../components/Button';
 import Accordion from '../components/Accordion';
 import CheckoutModal from '../components/CheckoutModal';
-import { Check, FileText, ArrowLeft, Star, ShieldCheck, Download, Lock } from 'lucide-react';
+import { Check, ArrowLeft, Star, Lock, Download } from 'lucide-react';
 
 const ProductDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -43,8 +42,8 @@ const ProductDetail: React.FC = () => {
               </div>
               <div className="bg-slate-50 p-6 rounded-2xl flex flex-col items-center text-center">
                 <Lock size={24} className="text-slate-900 mb-2" />
-                <h4 className="font-bold text-slate-900 text-sm">Secure Payment</h4>
-                <p className="text-xs text-slate-500 mt-1">Encrypted SSL Checkout</p>
+                <h4 className="font-bold text-slate-900 text-sm">Secure Checkout</h4>
+                <p className="text-xs text-slate-500 mt-1">SSL Encrypted Payment</p>
               </div>
             </div>
           </div>
@@ -69,6 +68,10 @@ const ProductDetail: React.FC = () => {
             
             <div className="flex items-baseline gap-2 mb-8">
                <span className="text-3xl font-bold text-slate-900">${product.price.toFixed(2)}</span>
+               <span className="text-lg text-slate-400 font-medium line-through decoration-slate-300">
+                 ${(product.price * 1.2).toFixed(2)}
+               </span>
+               <span className="text-green-600 text-sm font-bold bg-green-50 px-2 py-1 rounded ml-2">Save 20%</span>
             </div>
 
             <Button 
@@ -82,7 +85,7 @@ const ProductDetail: React.FC = () => {
             
             <div className="prose prose-slate max-w-none mb-10">
               <h3 className="text-lg font-bold text-slate-900 mb-3">Description</h3>
-              <p className="text-slate-600 leading-relaxed text-base">{product.fullDescription}</p>
+              <p className="text-slate-600 leading-relaxed text-base whitespace-pre-wrap">{product.fullDescription}</p>
             </div>
 
             <div className="mb-10">
@@ -104,9 +107,6 @@ const ProductDetail: React.FC = () => {
                </Accordion>
                <Accordion title="Licensing">
                   Your purchase includes a single-business license. You may use these documents for your own company indefinitely. Resale or redistribution is prohibited.
-               </Accordion>
-               <Accordion title="Refund Policy">
-                  Due to the digital nature of our products, all sales are final. We cannot offer returns or exchanges once files have been downloaded.
                </Accordion>
             </div>
 

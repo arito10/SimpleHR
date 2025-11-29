@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { RoutePath } from '../types';
-import { Twitter, Instagram, Linkedin, Mail } from 'lucide-react';
+import { Twitter, Instagram, Linkedin } from 'lucide-react';
 import Logo from './Logo';
 
 const Footer: React.FC = () => {
@@ -15,12 +15,12 @@ const Footer: React.FC = () => {
               <Logo />
             </div>
             <p className="text-sm text-slate-500 mb-6 leading-relaxed">
-              Democratizing access to HR tools for small businesses. Compliance made simple.
+              Democratizing access to professional HR tools for small businesses. Compliance made simple.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors"><Twitter size={20} /></a>
               <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors"><Linkedin size={20} /></a>
-              <a href="https://www.instagram.com/_simplehr" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-slate-900 transition-colors"><Instagram size={20} /></a>
+              <a href="https://www.instagram.com/_simplehr" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-slate-900 transition-colors"><Instagram size={20} /></a>
             </div>
           </div>
 

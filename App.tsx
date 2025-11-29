@@ -9,7 +9,6 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
-import FAQ from './pages/FAQ';
 import HRAssistant from './components/HRAssistant';
 import { RoutePath } from './types';
 
@@ -31,7 +30,6 @@ const App: React.FC = () => {
                 <Route path={RoutePath.BLOG} element={<Blog />} />
                 <Route path={RoutePath.BLOG_POST} element={<BlogPost />} />
                 <Route path={RoutePath.CONTACT} element={<Contact />} />
-                <Route path={RoutePath.FAQ} element={<FAQ />} />
                 <Route path="*" element={<Navigate to={RoutePath.HOME} replace />} />
               </Routes>
             </main>
