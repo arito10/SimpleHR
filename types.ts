@@ -38,4 +38,5 @@ export enum RoutePath {
   BLOG = '/resources',
   BLOG_POST = '/resources/:id',
   CONTACT = '/contact',
+  FAQ = '/faq',
 }

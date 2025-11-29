@@ -15,12 +15,12 @@ const Footer: React.FC = () => {
               <Logo />
             </div>
             <p className="text-sm text-slate-500 mb-6 leading-relaxed">
-              Democratizing access to Fortune 500 HR tools for small businesses. Compliance made simple.
+              Democratizing access to HR tools for small businesses. Compliance made simple.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors"><Twitter size={20} /></a>
               <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors"><Linkedin size={20} /></a>
-              <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors"><Instagram size={20} /></a>
+              <a href="https://www.instagram.com/_simplehr" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-slate-900 transition-colors"><Instagram size={20} /></a>
             </div>
           </div>
 
@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-3 text-sm text-slate-500">
               <li><Link to={RoutePath.CONTACT} className="hover:text-slate-900 transition-colors">Contact Us</Link></li>
               <li><Link to={RoutePath.ABOUT} className="hover:text-slate-900 transition-colors">About SimpleHR</Link></li>
-              <li><a href="#" className="hover:text-slate-900 transition-colors">FAQ</a></li>
+              <li><Link to={RoutePath.FAQ} className="hover:text-slate-900 transition-colors">FAQ</Link></li>
               <li><a href="#" className="hover:text-slate-900 transition-colors">Licensing</a></li>
             </ul>
           </div>

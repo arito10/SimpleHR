@@ -1,10 +1,22 @@
 import { GoogleGenAI } from "@google/genai";
 
-// Initialize the client securely
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY || '' });
+// Safely retrieve API key to prevent "process is not defined" crashes in browser
+const getApiKey = () => {
+  try {
+    if (typeof process !== 'undefined' && process.env) {
+      return process.env.API_KEY || '';
+    }
+  } catch (e) {
+    // Ignore error if process is not defined
+  }
+  return '';
+};
+
+const ai = new GoogleGenAI({ apiKey: getApiKey() });
 
 export const generateHRAdvice = async (userQuery: string): Promise<string> => {
-  if (!process.env.API_KEY) {
+  const apiKey = getApiKey();
+  if (!apiKey) {
     return "I'm sorry, my AI brain is currently offline (Missing API Key). Please try again later.";
   }
 
